@@ -1,10 +1,16 @@
 # TeamSnap Engineering Levels
 
-## Philosophy
+## Context and philosophies
+The intent of this leveling system is declare our expectations for the individuals on our team and, along the way, embrace and support a diverse group of unique engineers.  We will use these expectations in evaluating new hires, measuring performance, paying fairly, and most importantly, facilitating growth.
 
+A note on fairness and this rubric: we believe explicit, specific, and more objective expectations help us be more fair, inclusive, and less biased.  While some of these, particularly in the areas of communication and leadership, are inherently fuzzier and different for many of us, we bcan at least narrow the scope of bias and more easily root it out and align on differences.  In short, we believe being explicit about these expectations won't remove all bias, but will narrow its impact and increase overall fairness.
+
+We value uniqueness and both generalists and specialists, from the engineer that performs consistently at the same level across all attributes to the engineer that is disproportionately strong in a few.  As such we don't expect every person to be equivalently strong in all areas.  Though ideally if you're in a level, you're strong at most!
 
 ### Index
  * [Associate Software Engineer (Band 1)](#SWE-IC1)
+ * [Software Engineer (Band 2)](#SWE-IC2)
+
 
 ## Levels
 
