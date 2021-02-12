@@ -8,8 +8,11 @@ A note on fairness and this rubric: we believe explicit, specific, and more obje
 We value uniqueness and both generalists and specialists, from the engineer that performs consistently at the same level across all attributes to the engineer that is disproportionately strong in a few.  As such we don't expect every person to be equivalently strong in all areas.  Though ideally if you're in a level, you're strong at most!
 
 ### Index
- * [Associate Software Engineer (Band 1)](#SWE-IC1)
- * [Software Engineer (Band 2)](#SWE-IC2)
+ * [Associate Software Engineer (Level 1)](#SWE-IC1)
+ * [Software Engineer (Level 2)](#SWE-IC2)
+ * [Senior Software Engineer (Level 3)](#SWE-IC3)
+ * [Staff Software Engineer (Level 4)](#SWE-IC4)
+ * [Principal Software Engineer (Level 5)](#SWE-IC4)
 
 
 ## Levels
