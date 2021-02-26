@@ -15,26 +15,26 @@ We aren't a BigCo yet, describing a community of thousands, so we aspire to keep
 ### Index
 
 #### Level 1
-* [Associate Software Engineer](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/Associate%20Software%20Engineer.md)
-* [Associate Site Reliability Engineer]()
+* [Associate Software Engineer](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/1%20-%20Associate%20Software%20Engineer.md)
+* [Associate Site Reliability Engineer](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/1%20-%20Associate%20Site%20Reliability%20Engineer.md)
  
 #### Level 2
-* [Software Engineer]()
-* [Site Reliability Engineer]()
+* [Software Engineer](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/2%20-%20Software%20Engineer.md)
+* [Site Reliability Engineer](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/2%20-%20Site%20Reliability%20Engineer.md)
 
 #### Level 3
-* [Senior Software Engineer]()
-* [Senior Site Reliability Engineer]()
+* [Senior Software Engineer](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/3%20-%20Senior%20Software%20Engineer.md)
+* [Senior Site Reliability Engineer](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/3%20-%20Senior%20Site%20Reliability%20Engineer.md)
  
 #### Level 4
-* [Staff Software Engineer]()
-* [Staff Site Reliability Engineer]()
-* [Engineering Manager]()
+* [Staff Software Engineer](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/4%20-%20Staff%20Software%20Engineer.md)
+* [Staff Site Reliability Engineer](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/4%20-%20Staff%20Site%20Reliability%20Engineer.md)
+* [Engineering Manager](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/4%20-%20Engineering%20Manager.md)
   
 #### Level 5
- * [Principal Software Engineer]()
- * [Principal Site Reliability Engineer]()
- * [Engineering Director]()
+ * [Principal Software Engineer](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/5%20-%20Principal%20Software%20Engineer.md)
+ * [Principal Site Reliability Engineer](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/5%20-%20Principal%20Site%20Reliability%20Engineer.md)
+ * [Engineering Director](https://github.com/teamsnap/Engineering/blob/main/Engineering%20Job%20Levels/5%20-%20Director%20of%20Engineering.md)
 
 
 
