@@ -6,7 +6,7 @@ The intent of this leveling system is declare our expectations for the individua
 
 A note on fairness and this rubric: we believe explicit, specific, and more objective expectations help us be more fair, inclusive, and less biased.  While some of these, particularly in the areas of communication and leadership, are inherently fuzzier and different for many of us, we can at least narrow the scope of bias and more easily root it out and align on differences.  In short, we believe being explicit about these expectations won't remove all bias, but will narrow its impact and increase overall fairness.
 
-We value uniqueness and both generalists and specialists, from the engineer that performs consistently at the same level across all attributes to the engineer that is disproportionately strong in a few.  As such we don't expect every person to be equivalently strong in all areas.  Though ideally if you're in a level, you're strong at most!
+We value uniqueness and both generalists and specialists, from the engineer that performs consistently at the same level across all attributes to the engineer that is disproportionately strong in a few.  As such we don't expect every person to be equivalently strong in all areas.  Though ideally if you're in a level, you're strong at some or many.
 
 ## Overview of the levels
 
