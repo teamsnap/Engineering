@@ -5,7 +5,7 @@ The Director of Engineering provides strategic and tactical leadership to multip
 
 ## Scope & Responsibility
  * Works with other Engineering Leaders to ensure the success of engineering across TeamSnap.
- * Leadership of multiple teams of engineers
+ * Leadership of multiple teams of engineers.  Lead teams directly during interim periods, when growing new teams, or for certain types of situations (leading a small strike team etc), and/or manage through leads/managers.
 
 ## Personnel
  * Be a great builder of talent, via hiring, hiring processes and rubrics, 1:1 coaching/mentoring, career planning & development, goal setting, and performance management of managers and engineers.  Grows and empowers leaders.
