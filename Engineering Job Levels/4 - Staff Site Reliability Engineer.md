@@ -1,4 +1,4 @@
 # Staff Site Reliability Engineer
  
-## Competencies
+Not yet ready for game time!
 
