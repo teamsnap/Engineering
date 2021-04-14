@@ -1,4 +1,3 @@
 # Staff Site Reliability Engineer
  
-Not yet ready for game time!
-
+This level isn't fully built out yet!  Coming soon...
