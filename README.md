@@ -1,2 +1,3 @@
-# Engineering
-Engineering organization artifacts
+# TeamSnap Engineering
+
+Engineering organization artifacts.
