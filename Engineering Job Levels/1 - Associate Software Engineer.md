@@ -7,7 +7,7 @@ The Associate Software Engineer is at the start of their career and has a reason
  * Works proactively with team members on product features and is developing technical expertise
 
 ## Focus & Complexity
- * Focus on learning functional basics, then applying and increasing functional knowledge 
+ * Focus on learning functional basics, then applying and increasing functional knowledge
  * Seeks out mentorship to grow their own experience
  * Receives deliverables in the form of short-term objectives
  * Follows standard processes to deliver technical or professional work and may make recommendations for improvement
@@ -15,12 +15,12 @@ The Associate Software Engineer is at the start of their career and has a reason
 ## Strategic Impact & Decision Making
  * Has a fundamental understanding of the product
  * Decisions are within scope of individual work and may impact team deliverables
- 
+
 ## Competencies
 
 |                  	|                                  	|                                      	|                                                                                                  Associate Software Engineer                                                                                                  	|
 |------------------	|----------------------------------	|--------------------------------------	|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Technical Skills 	| Quality and Testing              	| Writing code                         	| Writes code with testability, readability, edge cases, and errors in mind.                                                                                                                                                    	|
+| Technical Skills 	| Quality and Testing              	| Writing code                         	| Writes code with testability, readability, edge cases, and errors in mind. Can observe existing design patterns and work within their constructs, but may not understand why that pattern was chosen.                                                                                                                                                    	|
 |                  	|                                  	| Testing                              	| Knows the testing pyramid. Writes unit tests, sometimes with help from more senior engineers.                                                                                                                                 	|
 |                  	| Debugging and Observability      	| Debugging                            	| Understands the basics of debugging and the tools used for it. Is able to identify relevant information to assist with root cause analysis.                                                                                   	|
 |                  	|                                  	| Observability                        	| n/a (not applicable at this level)                                                                                                                                                                                            	|

@@ -7,7 +7,7 @@ The Software Engineer displays solid understanding of core engineering concepts.
  * Leverage best practices to write and continually improve the code base
  * Able to own small-to-medium features from technical design through completion.
  * Shouldn’t need assistance with common implementation details. May need architecture assistance.
- * Before beginning work, ensures that tasks are appropriately sized for continuous integration and incremental delivery with help from teammates and manager. 
+ * Before beginning work, ensures that tasks are appropriately sized for continuous integration and incremental delivery with help from teammates and manager.
 
 
 ## Focus & Complexity
@@ -16,16 +16,16 @@ The Software Engineer displays solid understanding of core engineering concepts.
 
 
 ## Strategic Impact & Decision Making
- * Understands product area of focus, how it fits into the overall business, and sometimes makes improvement suggestions for it. 
- * Understands their team's domain, and how it contributes to overall business strategy. 
+ * Understands product area of focus, how it fits into the overall business, and sometimes makes improvement suggestions for it.
+ * Understands their team's domain, and how it contributes to overall business strategy.
  * Decisions are within scope of individual work and may impact team deliverables
 
- 
+
 ## Competencies
 
 |                  	|                                  	|                                      	|                                                                                                                                                         Software Engineer                                                                                                                                                         	|
 |------------------	|----------------------------------	|--------------------------------------	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Technical Skills 	| Quality and Testing              	| Writing code                         	| Consistently writes functions that are easily testable, easily understood by other developers, and accounts for edge cases and errors. Uses docstrings effectively.                                                                                                                                                               	|
+| Technical Skills 	| Quality and Testing              	| Writing code                         	| Consistently writes functions that are easily testable, easily understood by other developers, and accounts for edge cases and errors. Can observe existing design patterns and work within their constructs and understands why those specific patterns are beneficial.                                                                                                                                                              	|
 |                  	|                                  	| Testing                              	| Understands the testing pyramid, writes unit tests in accordance with it, as well as higher level tests with help from more senior engineers. Always tests expected edge cases and errors as well as the happy path.                                                                                                              	|
 |                  	| Debugging and Observability      	| Debugging                            	| Uses a systematic approach to debug issues located within their team's sphere of ownership. Is able to interpret data to build and test proposed solutions to issues identified in root cause analyses.                                                                                                                           	|
 |                  	|                                  	| Observability                        	| Is aware of the organization's monitoring philosophy and the operational data for their team’s domain.                                                                                                                                                                                                                            	|
