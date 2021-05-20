@@ -1,27 +1,27 @@
 # Principal Software Engineer
 
-The Principal Software Engineer collaborates with engineers and other stakeholders to define the functional and non-functional requirements of new solutions, with an emphasis on solutions which require coordination between multiple teams/services. 
+The Principal Software Engineer collaborates with engineers and other stakeholders to define the functional and non-functional requirements of new solutions, with an emphasis on solutions which require coordination between multiple teams/services.
 
 ## Scope & Responsibility
  * Interprets requirements from Product, CX, and from their own independent analysis of application usage and translates these requirements into actionable feature requests
  * Successfully manages cross-team commitments, their progress, and roadmap to delivery.
- * Anticipates and communicates blockers, delays, and cost ballooning across teams, before they require escalation. Ensures expectations across teams and stakeholders are clarified between all parties involved. 
+ * Anticipates and communicates blockers, delays, and cost ballooning across teams, before they require escalation. Ensures expectations across teams and stakeholders are clarified between all parties involved.
 
 
 ## Focus & Complexity
  * Where Staff and Senior System Engineers are focused on incremental improvements within their domains of expertise, the Software Architect is focused on identifying and executing the projects which have the potential to substantially improve a material facet of the business (i.e., across multiple teams or LOBs).
  * Understands how the entire architecture works and how changes made in one area affect another area.
- * Mentors across teams in an open, respectful, flexible, empathetic manner. Fosters a culture of mentoring across teams by seeking out mentoring opportunities for themselves and others, and supports others in their growth as mentors. 
+ * Mentors across teams in an open, respectful, flexible, empathetic manner. Fosters a culture of mentoring across teams by seeking out mentoring opportunities for themselves and others, and supports others in their growth as mentors.
 
 
 ## Strategic Impact & Decision Making
  * Often helps refine roadmaps across teams based on technical strategy & constraints. Helps to define & create new product abilities by changing technical strategy or constraints.
- 
+
 ## Competencies
 
 |                  	|                                  	|                                      	|                                                                                                                                                                                                                     Principal Software Engineer                                                                                                                                                                                                                    	|
 |------------------	|----------------------------------	|--------------------------------------	|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Technical Skills 	| Quality and Testing              	| Writing code                         	| Consistently writes production-ready code that is easily testable, easily understood by other developers, and accounts for edge cases and errors. Understands when it is appropriate to leave comments, but biases towards self-documenting code.                                                                                                                                                                                                         	|
+| Technical Skills 	| Quality and Testing              	| Writing code                         	| Consistently writes production-ready code that is easily testable, easily understood by other developers, and accounts for edge cases and errors. Understands when it is appropriate to leave comments, but biases towards self-documenting code. Has a thorough understanding of design patterns in their domain and applies them appropriately. Can discern the many patterns that could apply in a specific application and understands the tradeoffs. Assists other engineers with their knowledge of design patterns.                                                                                                                                                                                                         	|
 |                  	|                                  	| Testing                              	| Understands the testing approach of several teams, and uses quality metrics to identify gaps. Works with those teams to recommend solutions that are in accordance with accepted testing frameworks and the testing pyramid. Influences organization wide testing strategy.                                                                                                                                                                               	|
 |                  	| Debugging and Observability      	| Debugging                            	| Proficient at using systematic debugging to diagnose all issues within a set of related domains.                                                                                                                                                                                                                                                                                                                                                          	|
 |                  	|                                  	| Observability                        	| Fosters a culture of observability across several teams and helps them use operational data to improve stability and performance of their domains.                                                                                                                                                                                                                                                                                                        	|

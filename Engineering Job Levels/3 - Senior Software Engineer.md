@@ -1,10 +1,10 @@
 # Senior Software Engineer
 
-The Senior Software Engineer is a rock-solid engineer who is a master of at least one domain. They are capable of owning technical design for projects of moderate complexity, and understand the tradeoffs in creating good software in their area. 
+The Senior Software Engineer is a rock-solid engineer who is a master of at least one domain. They are capable of owning technical design for projects of moderate complexity, and understand the tradeoffs in creating good software in their area.
 
 ## Scope & Responsibility
  * Wide architectural knowledge with the ability to design & build
- * Able to own small-to-medium features from technical design through completion; 
+ * Able to own small-to-medium features from technical design through completion;
  * May mentor other team members
  * Engages in cross platform on-call responsibilities
  * Works to build strong relationships with their teammates, manager, as well as their teams' relevant business stakeholders.
@@ -20,12 +20,12 @@ The Senior Software Engineer is a rock-solid engineer who is a master of at leas
  * Thoroughly understands the business model in relation to their current product focus area. Sometimes participates in roadmap feedback with product team. Looks for opportunities to simplify product & technical design.
  * Mentors their teammates in an open, respectful, flexible, empathetic manner. Seeks out mentoring opportunities specifically to create team redundancy and backfill ability.
 
- 
+
 ## Competencies
 
 |                  	|                                  	|                                      	|                                                                                                                                                         Senior Software Engineer                                                                                                                                                         	|
 |------------------	|----------------------------------	|--------------------------------------	|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Technical Skills 	| Quality and Testing              	| Writing code                         	| Consistently writes production-ready code that is easily testable, easily understood by other developers, and accounts for edge cases and errors. Understands when it is appropriate to leave comments, but biases towards self-documenting code.                                                                                        	|
+| Technical Skills 	| Quality and Testing              	| Writing code                         	| Consistently writes production-ready code that is easily testable, easily understood by other developers, and accounts for edge cases and errors. Understands when it is appropriate to leave comments, but biases towards self-documenting code. Observes existing design patterns in code and works to improve their implementation. Has an understanding of common design patterns in their domain and applies them appropriately.                                                                                        	|
 |                  	|                                  	| Testing                              	| Understands the testing pyramid, and writes unit tests as well as higher level tests in accordance with it. Always writes tests to handle expected edge cases and errors gracefully, as well as happy paths.                                                                                                                             	|
 |                  	| Debugging and Observability      	| Debugging                            	| Proficient at using systematic debugging to diagnose issues located within their team's sphere of ownership. Uses systematic debugging to diagnose cross service issues, and is able to draw informed conclusions sometimes with incomplete data.                                                                                        	|
 |                  	|                                  	| Observability                        	| Is aware of the organization's monitoring philosophy. Helps tune and change the monitoring on their team accordingly. Is aware of the operational data for their team’s domain and uses it as a basis for suggesting stability and performance improvements.                                                                             	|

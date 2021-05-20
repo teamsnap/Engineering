@@ -1,9 +1,9 @@
 # Staff Software Engineer
 
-The Staff Software Engineer has strategic impact over some combination of a large team, a very deep technical problem, and/or a long time horizon. The problems that this engineer is solving are often open-ended. They are a leader within their team and among other engineering groups. 
+The Staff Software Engineer has strategic impact over some combination of a large team, a very deep technical problem, and/or a long time horizon. The problems that this engineer is solving are often open-ended. They are a leader within their team and among other engineering groups.
 
 ## Scope & Responsibility
- * Exemplifies best practices within their domain 
+ * Exemplifies best practices within their domain
  * Engages in cross platform on-call responsibilities
  * Sought out by other team members for technical guidance.
 
@@ -21,12 +21,13 @@ The Staff Software Engineer has strategic impact over some combination of a larg
  * Regularly participates in the creation of the team roadmap and ensuing feedback.
  * Simplifies product and technical design through proactive conversations.
 
- 
+
 ## Competencies
 
 |                  	|                                  	|                                      	|                                                                                                                                                                         Staff Software Engineer                                                                                                                                                                         	|
 |------------------	|----------------------------------	|--------------------------------------	|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Technical Skills 	| Quality and Testing              	| Writing code                         	| Consistently writes production-ready code that is easily testable, easily understood by other developers, and accounts for edge cases and errors. Understands when it is appropriate to leave comments, but biases towards self-documenting code.                                                                                                                       	|
+| Technical Skills 	| Quality and Testing              	| Writing code                         	| Consistently writes production-ready code that is easily testable, easily understood by other developers, and accounts for edge cases and errors. Understands when it is appropriate to leave comments, but biases towards self-documenting code. Has a thorough understanding of design patterns in their domain and applies them appropriately. Can discern the many patterns that could apply in a specific application and understands the tradeoffs. Assists other engineers with their knowledge of design patterns.
+                                                                                                                      	|
 |                  	|                                  	| Testing                              	| Understands their team's quality approach, and uses quality metrics to identify gaps. Works with their team to recommend solutions that are in accordance with accepted testing frameworks and the testing pyramid.                                                                                                                                                     	|
 |                  	| Debugging and Observability      	| Debugging                            	| Proficient at using systematic debugging to diagnose all issues within the scope of their domain.                                                                                                                                                                                                                                                                       	|
 |                  	|                                  	| Observability                        	| Drives monitoring work on their team based on the organization's monitoring philosophy. Is aware of the operational data for their team’s domain and uses it as a basis for driving changes to the team's services to achieve stability and performance improvements.                                                                                                   	|
