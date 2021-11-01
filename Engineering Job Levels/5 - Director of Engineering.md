@@ -9,7 +9,7 @@ The Director of Engineering provides strategic and tactical leadership to multip
 
 ## Personnel
  * Be a great builder of talent, via hiring, hiring processes and rubrics, 1:1 coaching/mentoring, career planning & development, goal setting, and performance management of managers and engineers.  Grows and empowers leaders.
- * Builds great teams via scalable systems and leadership development.  Models and drives a strong engineering culture with hallmarks of clarity, autonomy, and collaboration.  # (TODO: revise when Engineering principles are completed.)
+ * Builds great teams via scalable systems, explicit expectations and methodologies, and leadership development.  Models and drives a strong engineering culture with hallmarks of clarity, autonomy, and collaboration.  Ensures standards and expectations are high.
  * Drives staffing plans and approaches, including alternate staffing methods where appropriate.  Determines optimal organizational structure for execution, including the creation of new, durable teams where needed.
 
 ## Execution
@@ -28,3 +28,4 @@ The Director of Engineering provides strategic and tactical leadership to multip
  * Orchestrates practices and processes that enable their teams to do their best work.
  * Drives or collaborates with others on improvements to engineering-wide practices, processes, habits, and behaviors.
  * Ensures the team is a learning, evolving organism that continuously levels up.
+ * Effectively drives change when & where needed.
